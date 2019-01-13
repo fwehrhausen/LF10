@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+    <name>DEIN NAME</name>
+    <alter>DEIN ALTER</alter>
+    <lieblingsFarbe>DEINE LIEBLINGSFARBE</lieblingsFarbe>
+    <hobbys>
+        <hobby1>HOBBY1</hobby1>
+        <hobby2>HOBBY2</hobby2>
+    </hobbys>
+    <passwoerter>
+        <facebook>FACEBOOK-PASSWORT</facebook>
+        <bankPin>DEINE BANK-Pin</bankPin>
+    </passwoerter>
+</person>
